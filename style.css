@@ -17,8 +17,8 @@
 
 .musicplayer{
     background-color: #ffe0e5;
-    width: 480px;
-    height: 600px;
+    width: 85%;
+    height: auto;
     padding: 25px 35px;
     text-align: center;
     border-radius: 30px;
