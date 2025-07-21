@@ -74,7 +74,7 @@ nav{
  
 }
 
-/* Webkit (Chrome, Safari) slider thumb */
+
 .progress::-webkit-slider-thumb {
   appearance: none;
   background-color: #f53192;
@@ -89,7 +89,7 @@ nav{
   transform: scale(1.2);
 }
 
-/* Firefox slider thumb */
+
 .progress::-moz-range-thumb {
   background-color: #f53192;
   width: 20px;
@@ -144,14 +144,5 @@ nav{
 .spin {
   animation: rotate 3s linear infinite;
 }
-.controlst {
-    margin-top: 40px;
-    padding: 15px 20px;
-    background-color: #e0bbff; /* light purple for contrast */
-    border-radius: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-}
+
 
